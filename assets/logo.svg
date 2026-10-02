@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="AVMSD Scientific Integrity">
+  <rect width="48" height="48" rx="10" fill="#0E2A47"/>
+  <path d="M10 31 L18 23 L25 28 L38 15" fill="none" stroke="#F2B544" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="38" cy="15" r="3.4" fill="#F2B544"/>
+  <path d="M10 37 H38" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="2" stroke-linecap="round"/>
+</svg>
